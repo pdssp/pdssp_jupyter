@@ -1,1 +1,0 @@
-git+https://github.com/pole-surfaces-planetaires/pdssp.git#egg=pdssp
