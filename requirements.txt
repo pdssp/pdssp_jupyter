@@ -1,2 +1,1 @@
-pdssp@git+ssh://git@github.com/pole-surfaces-planetaires/pdssp.git@main#egg=pdssp
-
+git+https://github.com/pole-surfaces-planetaires/pdssp.git#egg=pdssp
