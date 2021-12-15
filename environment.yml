@@ -4,4 +4,4 @@ channels:
 dependencies:
   - yarn
   - pip:
-    - git+https://github.com/pole-surfaces-planetaires/pdssp.git@9ff053d0202f5629e9385564aa27debf291fee0e#egg=pdssp
+    - git+https://github.com/pole-surfaces-planetaires/pdssp.git@3e53228ee6f13b405108e9441a05b7a9192138c1#egg=pdssp
