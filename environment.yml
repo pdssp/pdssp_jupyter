@@ -3,5 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - yarn
+  - pip
   - pip:
     - git+https://github.com/pole-surfaces-planetaires/pdssp.git@c698fb80abff2871b4db71c2681dbac0918358c0#egg=pdssp
